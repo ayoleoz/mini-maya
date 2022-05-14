@@ -10,3 +10,5 @@ The project contains:
 
 
 This project creates a mesh editor application in the style of Autodesk Maya or Blender.
+
+It runs in Qt Creator by loading the Qt Project file **"halfEdge.pro"**.
